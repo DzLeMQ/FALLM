@@ -1,2 +1,2 @@
-# FYLLM
-financial analysis using local LLM
+# FALLM
+Financial analysis using local LLM
