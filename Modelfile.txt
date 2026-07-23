@@ -1,0 +1,4 @@
+FROM llama2:latest
+
+PARAMETER temperature 0.8
+SYSTEM You are a financial assistant, you help classify bank transactions
