@@ -12,4 +12,5 @@ Summary
 <img width="1268" height="440" alt="image" src="https://github.com/user-attachments/assets/a43527bb-2951-45f3-b326-aada0ebe56c2" />
 
 Categories breakdown
-<img width="1265" height="442" alt="image" src="https://github.com/user-attachments/assets/7ec5030a-f20a-4650-9d6d-a350f3421868" />
+<img width="1273" height="446" alt="image" src="https://github.com/user-attachments/assets/5d3ebd63-a9c7-4dae-9025-5e356f394118" />
+
