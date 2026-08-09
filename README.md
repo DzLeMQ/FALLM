@@ -6,9 +6,8 @@
 4. Start chatting to test the model via prompt
 
 # Prerequisites
-Python 3.14 or higher
-
-VS Code with Jupyter Notebook extension (recommended)
+1. Python 3.14 or higher
+2. VS Code with Jupyter Notebook extension (recommended)
 
 # Income & Expense Insights
 This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a local LLM to automatically categorize each transaction.
@@ -19,6 +18,3 @@ Summary
 
 Categories breakdown
 <img width="1273" height="446" alt="image" src="https://github.com/user-attachments/assets/5d3ebd63-a9c7-4dae-9025-5e356f394118" />
-
-zsadsad
-dfsdfsdf
