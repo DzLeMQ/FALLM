@@ -1,5 +1,3 @@
-# Income & Expense Insights
-This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a local LLM to automatically categorize each transaction.
 
 # Install local LLM
 1. Install ollama from ollama.ai
@@ -10,6 +8,9 @@ This project delivers a quick understanding of personal income, expenses, and sa
 # Prerequisites
 Python 3.14 or higher
 VS Code with Jupyter Notebook extension (recommended)
+
+# Income & Expense Insights
+This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a local LLM to automatically categorize each transaction.
 
 # Insights Visualisation
 Summary
