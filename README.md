@@ -7,8 +7,6 @@
 
 # Prerequisites
 Python 3.14 or higher
-
-
 VS Code with Jupyter Notebook extension (recommended)
 
 # Income & Expense Insights
