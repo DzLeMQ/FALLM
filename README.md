@@ -10,7 +10,7 @@
 2. VS Code with Jupyter Notebook extension (recommended)
 
 # Income & Expense Insights
-This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a local LLM to automatically categorize each transaction.
+This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a **local LLM** to automatically categorize each transaction.
 
 # Insights Visualisation
 Summary
