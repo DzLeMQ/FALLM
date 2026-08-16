@@ -17,12 +17,12 @@ This project delivers a quick understanding of personal income, expenses, and sa
 </p>
 
 # Insights Visualisation
-Summary
+
+Comparative Summary
 <img width="1268" height="440" alt="image" src="https://github.com/user-attachments/assets/a43527bb-2951-45f3-b326-aada0ebe56c2" />
 
-Categories breakdown
+Categories Breakdown Summary
 <img width="1273" height="446" alt="image" src="https://github.com/user-attachments/assets/5d3ebd63-a9c7-4dae-9025-5e356f394118" />
 
 **License**
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
