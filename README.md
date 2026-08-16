@@ -12,9 +12,9 @@
 
 # Income & Expense Insights
 This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a **local LLM** to automatically categorize each transaction.
-<div style="text-align: center;">
+<p align="center">
 <img width="497" height="341" alt="image" src="https://github.com/user-attachments/assets/07a9f054-be2a-4e30-b330-3def0e05ecde" />
-</div>
+</p>
 
 # Insights Visualisation
 Summary
