@@ -24,6 +24,5 @@ Comparative Summary
 Categories Breakdown Summary
 <img width="1273" height="446" alt="image" src="https://github.com/user-attachments/assets/5d3ebd63-a9c7-4dae-9025-5e356f394118" />
 
-**License**
-
+# License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
